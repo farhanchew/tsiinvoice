@@ -1,0 +1,6 @@
+@InvoiceTSI.Server_HostAddress = http://localhost:5221
+
+GET {{InvoiceTSI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
